@@ -1,0 +1,12 @@
+html,
+body{
+    background-image: url(WhatsApp\ Image\ 2024-07-27\ at\ 00.32.14.jpeg);
+    background-size: cover;
+    color: #ffffff;
+    div{
+        
+        margin-left: 25%;
+        margin-right: 2%;
+    }
+
+}
